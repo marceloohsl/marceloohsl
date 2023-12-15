@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Analista de suporte técnico no ERP WINTHOR
 - 🌱 Estudando JAVA
-- 💬 Contate-me no email: marcelosoares@gmail.com
+- 💬 Contate-me no email: linosoaresmarcelo@gmail.com
 
 <div>
 <a href ="https://beacons.ai/marceloohsl">
