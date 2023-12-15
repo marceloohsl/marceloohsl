@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcelo Henrique 
 
-- 🔭 Hoje trabalho como DEV MOBILE
-- 🌱 Estudando FLUTTER
+- 🔭 Hoje trabalho como Analista de suporte técnico no ERP WINTHOR
+- 🌱 Estudando JAVA
 - 💬 Contate-me no email: marcelosoares@gmail.com
 
 <div>
@@ -24,6 +24,3 @@
   <a href="https://www.instagram.com/marceloohsl/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcelo-henrique-soares-lino-9710b51b2/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-![Snake animation](https://github.com/marceloohsl/blob/output/github-contribution-grid-snake.svg)
-
