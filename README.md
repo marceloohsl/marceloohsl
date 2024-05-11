@@ -7,7 +7,7 @@
 <div>
 <a href ="https://beacons.ai/marceloohsl">
 <img = height="180cm" src="https://github-readme-stats.vercel.app/api?username=marceloohsl&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"\>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
 </div>
 
 <div style="display: inline_block"><br>
