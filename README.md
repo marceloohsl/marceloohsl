@@ -4,12 +4,6 @@
 - 🌱 Estudando JAVA
 - 💬 Contate-me no email: linosoaresmarcelo@gmail.com
 
-<div>
-<a href ="https://beacons.ai/marceloohsl">
-<img = height="180cm" src="https://github-readme-stats.vercel.app/api?username=marceloohsl&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"\>
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
-</div>
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Marcelo-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" alt="Marcelo-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
